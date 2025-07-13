@@ -30,10 +30,10 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <a href="https://www.codechef.com/users/aditya2208">
+  <a href="https://www.codechef.com/users/in_coder_aps">
     <img src="https://img.shields.io/badge/Codechef-4%E2%AD%90-FFA116?style=for-the-badge&logo=codechef&logoColor=white" alt="Codechef 4⭐">
   </a>
-  <a href="https://codeforces.com/profile/aditya2208">
+  <a href="https://codeforces.com/profile/in_coder_aps">
     <img src="https://img.shields.io/badge/Codeforces-Pupil-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Pupil">
   </a>
   <img src="https://img.shields.io/badge/800%2B%20problems%20solved-282C34?style=for-the-badge&logo=leetcode&logoColor=white" alt="800+ Problems Solved">
